@@ -1,0 +1,2 @@
+# fonts
+all  amharic  fonts
